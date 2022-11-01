@@ -37,7 +37,7 @@ global.marks = '⫹⫺ 「 RPW|DX 」 '
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -52,16 +52,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281252830322'] //ur owner number
-global.ownername = "DX" //ur owner name
-global.ytname = "YT:DX" //ur yt chanel name
+global.vcardowner = ['6282146218274'] //ur owner number
+global.ownername = "RiellXd" //ur owner name
+global.ytname = "YT:Riellbotz offcc" //ur yt chanel name
 global.socialm = "GitHub: None" //ur github or insta name
 global.location = "Banyuwangi, Jawa Timur, Indonesia" //ur location
 
 //bot bomdy 
 global.owner = ['6281252830322','6285163535546','6283131013482']
-global.ownertag = '6281252830322' //ur tag number
-global.botname = 'DX AI' //ur bot name
+global.ownertag = '6282146218274' //ur tag number
+global.botname = 'khurushi md' //ur bot name
 //link promo
 global.linkz = "https://youtube.com/c/RobbyPratamaW" //link Promo
 global.websitex = "https://youtube.com/c/RobbyPratamaW" //Link Promo
@@ -83,7 +83,7 @@ global.ppfakes = getBuffer(global.ppfakess)
 global.ppfak = 'https://cdn.discordapp.com/attachments/995238944985841664/1030000536621174864/20221013_131353.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 //damtabase
-global.premium = ['6281252830322']//ur premium numbers
+global.premium = ['6282146218274']//ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
